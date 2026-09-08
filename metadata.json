@@ -1,0 +1,11 @@
+{
+  "name": "CashGuard AI - SmartSecureAccess",
+  "description": "A professional multi-factor authentication system integrating card, facial, and OTP verification for secure ATM access with IoT cash level monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
